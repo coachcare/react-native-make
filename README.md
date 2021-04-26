@@ -6,9 +6,9 @@
 In your react-native project folder, run:
 
 ```bash
-yarn add -D @bam.tech/react-native-make
+yarn add -D @coachcare/react-native-make
 # OR
-npm i -D @bam.tech/react-native-make
+npm i -D @coachcare/react-native-make
 ```
 
 **Please note:** This plugin only supports react-native-cli v2+
